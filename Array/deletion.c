@@ -22,7 +22,7 @@ int main()
     int size = 5, element = 9, index = 2;
     display(arr , size);
     deletion(arr , size, index);
-    // size = size - 1;
+    size = size - 1;
     display(arr, size);
 
     return 0;
