@@ -18,6 +18,8 @@ void deletion(int arr[] , int size, int index){
 
 int main()
 {
+    printf("Ritesh Dawani\n");
+    printf("25/SET/BCSE/222\n");
     int arr[100] = {3, 6 , 9 , 15,  17};
     int size = 5, element = 9, index = 2;
     display(arr , size);
