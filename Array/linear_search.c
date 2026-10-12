@@ -17,6 +17,9 @@ int main()
     int size = sizeof(arr)/sizeof(int);
     int element = 44;
     int lsearch = linearsearch(arr, size, element);
+    printf("Ritesh Dawani\n");
+    printf("25/SET/BCSE/222\n"); 
+
     printf("%d is found at %d", element, lsearch);
     return 0;
 }

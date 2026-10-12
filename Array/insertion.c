@@ -25,10 +25,8 @@ int indInsertion(int arr[], int size, int element , int maxsize, int index){
 
 int main()
 {
-    printf("Ritesh Dawani\n");
-    printf("25/SET/BCSE/222\n");
 
-    int arr[100]={1,6,9,49,75};
+    int arr[100]={1,2,9,67,6};
     int size = 5, element = 25, index = 3;
     display(arr, size);
     indInsertion(arr , size , element , 100, index);
